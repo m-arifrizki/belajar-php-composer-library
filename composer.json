@@ -1,0 +1,17 @@
+{
+    "name": "testing/belajar-php-composer-library",
+    "description": "Belajar PHP Composer Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Testing\\BelajarPhpComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marifrizkiii",
+            "email": "marifrizkiii27@gmail.com"
+        }
+    ],
+    "require": {}
+}
